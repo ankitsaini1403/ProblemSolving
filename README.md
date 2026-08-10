@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0704-binary-search) |
 ## Simulation
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0062-unique-paths) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
