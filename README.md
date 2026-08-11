@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0070-climbing-stairs) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0704-binary-search) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
