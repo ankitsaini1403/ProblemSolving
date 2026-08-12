@@ -59,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0867-transpose-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1929-concatenation-of-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
