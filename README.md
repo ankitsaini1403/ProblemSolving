@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0022-generate-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0402-remove-k-digits) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0509-fibonacci-number) |
@@ -170,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2029-stone-game-ix) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
