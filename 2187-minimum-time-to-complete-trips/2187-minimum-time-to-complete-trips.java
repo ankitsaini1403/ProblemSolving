@@ -5,13 +5,9 @@ class Solution {
 
         for (int i = 0; i < arr.length; i++) {
             trips += time / arr[i];
-
-            if (trips >= totalTrips) {
-                return true;
-            }
         }
 
-        return false;
+        return  trips >= totalTrips ;
     }
 
     public long minimumTime(int[] time, int totalTrips) {
