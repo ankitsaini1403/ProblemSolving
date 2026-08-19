@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ankitsaini1403/ProblemSolving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
