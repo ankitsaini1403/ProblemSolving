@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0455-assign-cookies) |
 | [0682-baseball-game](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0682-baseball-game) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0455-assign-cookies) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ankitsaini1403/ProblemSolving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
