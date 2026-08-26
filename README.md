@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0402-remove-k-digits) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0234-palindrome-linked-list) |
