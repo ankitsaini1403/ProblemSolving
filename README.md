@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0680-valid-palindrome-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0876-middle-of-the-linked-list) |
