@@ -5,39 +5,22 @@ class Solution {
             return head;
         }
 
-        ListNode dummy1 = new ListNode(0);
-        ListNode dummy2 = new ListNode(0);
+        ListNode odd = head;
+        ListNode even = head.next;
+        ListNode evenHead = even;
 
-        ListNode temp1 = dummy1;
-        ListNode temp2 = dummy2;
-        ListNode temp = head;
+        while (even != null && even.next != null) {
 
-        while (temp != null) {
+            odd.next = even.next;
+            odd = odd.next;
 
-           
-            temp1.next = temp;
-            temp1 = temp1.next;
-
-           
-            if (temp.next != null) {
-                temp2.next = temp.next;
-                temp2 = temp2.next;
-            }
-
-            
-            if (temp.next != null) {
-                temp = temp.next.next;
-            } else {
-                temp = null;
-            }
+            even.next = odd.next;
+            even = even.next;
         }
 
-        
-        temp2.next = null;
+        odd.next = evenHead;
 
-       
-        temp1.next = dummy2.next;
-
-        return dummy1.next;
+        return head;
     }
 }
+
