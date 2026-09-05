@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0779-k-th-symbol-in-grammar) |
+| [1512-number-of-good-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankitsaini1403/ProblemSolving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ankitsaini1403/ProblemSolving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0867-transpose-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1512-number-of-good-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1512-number-of-good-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1929-concatenation-of-array) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1512-number-of-good-pairs) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ankitsaini1403/ProblemSolving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2029-stone-game-ix) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## Game Theory
