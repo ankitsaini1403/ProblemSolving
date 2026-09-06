@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0647-palindromic-substrings) |
 ## Memoization
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0647-palindromic-substrings) |
