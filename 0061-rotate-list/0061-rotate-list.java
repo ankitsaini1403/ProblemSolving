@@ -9,40 +9,41 @@
  * }
  */
 class Solution {
-    int len(ListNode head){
-         int len =0;
-         ListNode temp = head ;
-          while(temp!= null) {
-             len++;
-             temp = temp.next;
-          }
-          return len ;
-    }
+ 
 
     public ListNode rotateRight(ListNode head, int k) {
          
          if(head ==null || head.next == null) return  head ;
+           
+           int len = 1 ;
+           ListNode curr = head ;
+           while(curr.next != null){
+                curr = curr.next ;
+                len++;
+           }
 
-         k %=len(head);
+           k%=len;
+           if(k==0) return head ;
 
-         if(k==0) return head ;
+           curr.next = head ;
 
-         ListNode slow= head;
-         ListNode  fast = head;
+           ListNode newCurr = head ;
 
-         for(int i =1 ; i<=k ; i++){
-             fast = fast.next ;
-         } 
+            int steps = len- k ;
 
-         while(fast.next != null){
-              slow = slow.next ;
-              fast = fast.next ;
-         }
+            for(int i=1 ; i<steps ;i++){
+                 
+                 newCurr= newCurr.next ;
+                 
+            }
 
-         ListNode temp = slow.next ;
-          slow.next = null;
-         fast.next = head ;
+            ListNode newHead = newCurr.next;
 
-     return  temp ;
+            newCurr.next = null ;
+
+
+            return newHead;
+
+       
     }
 }
