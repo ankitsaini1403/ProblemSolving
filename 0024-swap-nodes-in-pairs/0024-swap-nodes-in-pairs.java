@@ -1,9 +1,7 @@
 class Solution {
     public ListNode swapPairs(ListNode head) {
-        // 1. Edge Case: If list is empty or has only 1 node, no swaps needed
-        if (head == null || head.next == null) {
-            return head;
-        }
+       
+       
         
         
         ListNode dummy = new ListNode(0);
