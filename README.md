@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2187-minimum-time-to-complete-trips) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ankitsaini1403/ProblemSolving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ankitsaini1403/ProblemSolving/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3731-find-missing-elements](https://github.com/ankitsaini1403/ProblemSolving/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ankitsaini1403/ProblemSolving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ankitsaini1403/ProblemSolving/tree/master/3471-find-the-largest-almost-missing-integer) |
