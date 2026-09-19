@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0443-string-compression) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2090-k-radius-subarray-averages](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2090-k-radius-subarray-averages) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0148-sort-list) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Minimax
 |  |
 | ------- |
