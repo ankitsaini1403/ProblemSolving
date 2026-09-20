@@ -1,36 +1,37 @@
 class Solution {
-    public int maxCount(int arr[]){
-         int count = Integer.MIN_VALUE ;
-
-         for(int i =0 ; i<arr.length ; i++){
-             if(count<arr[i]){
-                 count = arr[i];
-             }
-
-         }
-         return count ;
-    }
 
     public int characterReplacement(String s, int k) {
-           int  max = Integer.MIN_VALUE ;
-           int  freq[] = new int[256];
-           int start =0 ;
-           for(int end =0 ; end<s.length() ;end++){
-                  freq[s.charAt(end)]++;
-                  int len = end- start +1 ;
-                   int maxOccur  = maxCount(freq);
-                   int diff = len - maxOccur ;
-                   while(diff>k){
-                       freq[s.charAt(start)]--;
-                        start++;
-                        maxOccur = maxCount(freq);
-                        len = end -start +1 ;
-                        diff = len - maxOccur;
-                   }
-                max = Math.max(max, end-start+1);
-                
-           }
 
-           return max ;
+        int[] freq = new int[256];
+
+        int start = 0;
+        int maxFreq = 0;
+        int maxLength = 0;
+
+        for (int end = 0; end < s.length(); end++) {
+
+            char ch = s.charAt(end);
+            freq[ch]++;
+
+           
+            maxFreq = Math.max(maxFreq, freq[ch]);
+
+        
+            int windowLength = end - start + 1;
+            int replacements = windowLength - maxFreq;
+
+           
+            while (replacements > k) {
+                freq[s.charAt(start)]--;
+                start++;
+
+                windowLength = end - start + 1;
+                replacements = windowLength - maxFreq;
+            }
+
+            maxLength = Math.max(maxLength, end - start + 1);
+        }
+
+        return maxLength;
     }
 }
