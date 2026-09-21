@@ -1,9 +1,9 @@
 class Solution {
     public int maxSatisfied(int[] customers, int[] grumpy, int minutes) {
-        int  alreadyhappyCustomers = 0 ;
+        int  alreadyHappyCustomers = 0 ;
 
         for(int i= 0 ; i<customers.length;i++){
-             if(grumpy[i]==0) alreadyhappyCustomers+=customers[i];
+             if(grumpy[i]==0) alreadyHappyCustomers+=customers[i];
         }
 
         int sum =0;
@@ -25,7 +25,7 @@ class Solution {
               }
         }
 
-        return alreadyhappyCustomers +max ;
+        return alreadyHappyCustomers +max ;
 
 
 
