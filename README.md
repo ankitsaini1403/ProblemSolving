@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0392-is-subsequence) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1512-number-of-good-pairs) |
