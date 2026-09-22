@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0867-transpose-matrix) |
