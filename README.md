@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2187-minimum-time-to-complete-trips) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ankitsaini1403/ProblemSolving/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0647-palindromic-substrings) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Memoization
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0867-transpose-matrix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
 | ------- |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Prefix Sum
 |  |
 | ------- |
