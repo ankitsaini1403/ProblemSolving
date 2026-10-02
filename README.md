@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0445-add-two-numbers-ii) |
+| [0707-design-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1019-next-greater-node-in-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1669-merge-in-between-linked-lists) |
@@ -552,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
