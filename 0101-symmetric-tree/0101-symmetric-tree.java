@@ -5,15 +5,12 @@ class Solution {
     }
 
     public boolean isMirror(TreeNode root1, TreeNode root2){
-           if(root1 == null && root2 ==null) return true ;
-           if(root1 == null || root2 == null) return false ;
-           if(root1.val != root2.val) return  false ;
+        if(root1==null && root2==null) return true ;
+        if(root1 == null || root2 == null) return false ;
+        if(root1.val !=  root2.val) return false ;
 
-           boolean first = isMirror(root1.left ,root2.right);
-           boolean second = isMirror(root1.right,root2.left);
-
-           return first && second ;
-
+        return isMirror(root1.left , root2.right) && isMirror(root1.right , root2.left);
+      
 
     }
 }
