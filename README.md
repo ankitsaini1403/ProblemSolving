@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0962-maximum-width-ramp](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0402-remove-k-digits) |
+| [0962-maximum-width-ramp](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2487-remove-nodes-from-linked-list) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0881-boats-to-save-people) |
+| [0962-maximum-width-ramp](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0962-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1019-next-greater-node-in-linked-list) |
 | [1052-grumpy-bookstore-owner](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1052-grumpy-bookstore-owner) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0917-reverse-only-letters) |
+| [0962-maximum-width-ramp](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0962-maximum-width-ramp) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
