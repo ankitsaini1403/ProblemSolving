@@ -1,6 +1,6 @@
 class Solution {
     public int maximumNumberOfStringPairs(String[] words) {
-        Set<String> set = new HashSet<>();
+        HashSet<String> set = new HashSet<>();
         int count = 0;
 
         for (String word : words) {
