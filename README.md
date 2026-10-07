@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0144-binary-tree-preorder-traversal) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0402-remove-k-digits) |
 | [0962-maximum-width-ramp](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0962-maximum-width-ramp) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0204-count-primes) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0392-is-subsequence) |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0086-partition-list) |
