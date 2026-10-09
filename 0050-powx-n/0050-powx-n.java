@@ -1,23 +1,22 @@
 class Solution {
     public double myPow(double x, int n) {
-        long exp = n ;
-      if(n<0){
-         x = 1/x ;
-         exp = - exp ;
-      }
+        long power = n;
+        boolean negative = false;
 
-       return power(x, exp , 1);
-    }
+        if (power < 0) {
+            negative = true;
+            power = -power;
+        }
 
+        double ans = 1.0;
+        while (power > 0) {
+            if (power % 2 == 1) {
+                ans *= x;
+            }
+            x *= x;
+            power /= 2;
+        }
 
-    public  double power(double x, long exp ,double ans ){
-          
-          if(exp == 0){
-             return ans;
-          }
-          if(exp% 2 != 0){
-             ans *= x ;
-          }
-      return power(x*x, exp/2 , ans);
+        return negative ? 1.0 / ans : ans;
     }
 }
