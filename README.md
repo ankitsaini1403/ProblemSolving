@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0779-k-th-symbol-in-grammar) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1512-number-of-good-pairs) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2029-stone-game-ix](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2029-stone-game-ix) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1019-next-greater-node-in-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1669-merge-in-between-linked-lists) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2487-remove-nodes-from-linked-list) |
