@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0389-find-the-difference) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
