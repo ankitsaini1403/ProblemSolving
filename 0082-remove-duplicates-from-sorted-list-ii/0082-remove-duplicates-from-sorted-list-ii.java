@@ -21,7 +21,7 @@ class Solution {
                 prev = prev.next;
             }
             
-            curr = prev.next;
+            curr = curr.next;
         }
         
         return dummy.next;
