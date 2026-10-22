@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1512-number-of-good-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
