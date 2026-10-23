@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0647-palindromic-substrings) |
