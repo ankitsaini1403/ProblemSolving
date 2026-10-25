@@ -3,17 +3,26 @@
     public String reverseWords(String s) {
         String[] words = s.trim().split("\\s+");
 
-        StringBuilder result = new StringBuilder();
+         int left =0 ;
+         int right = words.length-1 ;
 
-        for (int i = words.length - 1; i >= 0; i--) {
-            result.append(words[i]);
+         while(left<right){
+             String temp = words[left];
+             words[left] = words[right];
+             words[right] = temp ;
+              left++;
+              right--;
+         }
 
-            if (i != 0) {
-                result.append(" ");
-            }
-        }
+         StringBuilder sb = new StringBuilder();
 
-        return result.toString();
+         for(int i =0 ; i<words.length ; i++){
+                sb.append(words[i]);
+                if(i == words.length -1) continue ;
+                sb.append(" ");
+         }
+
+         return new String(sb);
     }
 }
 
