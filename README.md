@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0125-valid-palindrome) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0078-subsets) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0268-missing-number) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0142-linked-list-cycle-ii) |
