@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0125-valid-palindrome) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0268-missing-number) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0455-assign-cookies) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bit Manipulation
@@ -682,4 +686,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0069-sqrtx) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
