@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2187-minimum-time-to-complete-trips) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2090-k-radius-subarray-averages](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2090-k-radius-subarray-averages) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitsaini1403/ProblemSolving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ankitsaini1403/ProblemSolving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
