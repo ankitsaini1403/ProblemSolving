@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0303-range-sum-query-immutable) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -705,4 +709,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0075-sort-colors) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
