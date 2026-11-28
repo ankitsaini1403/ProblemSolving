@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0682-baseball-game) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1512-number-of-good-pairs) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ankitsaini1403/ProblemSolving/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ankitsaini1403/ProblemSolving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
